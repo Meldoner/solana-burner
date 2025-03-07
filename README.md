@@ -1,4 +1,7 @@
-# Solana Token Burner
+<div align="center">
+    <img src="https://i.imgur.com/OHPxyZA.png" width="100px" />
+    <h1>Solana Token Burner</h1>
+</div>
 
 ## Overview
 
