@@ -6,6 +6,7 @@ The Solana Token Burner is a Python application designed to burn and close token
 
 ## Features
 
+- Free and open source
 - Connect to custom Solana RPC endpoints.
 - Retrieve and display token accounts owned by a wallet.
 - Burn tokens from specified token accounts.
