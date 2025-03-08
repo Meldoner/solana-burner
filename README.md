@@ -6,6 +6,7 @@
 ## Overview
 
 **Solana Token Burner** is a Python application designed to burn and close token accounts in order to refund storage fees. It automatically close empty token accounts and asks on which non-empty token accounts to burn the token and close the account.
+**Requires private key of your wallet**
 
 ## Features
 
